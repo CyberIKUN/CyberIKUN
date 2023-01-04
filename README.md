@@ -29,12 +29,13 @@
 🚩 **今年目标**
 <img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 
-- [ ] 🎢 开发一个Java项目和Go项目（熟悉语言开发为主）
+- [x] 🎢 开发一个Java项目和
+- [ ] 🎢 Go项目（熟悉语言开发为主）
 - [ ] 🎈 熟悉中间件原理，复现中间件漏洞
 - [ ] 💎 自动化代码漏洞挖掘原理+使用-CodeQL
-- [ ] 🎄 Android逆向
-- [ ] 📖看书
-- [ ] 💪争取两个高质量CVE
+- [ ] 🎄 毕设-RASP
+- [ ] 📖 看书
+- [ ] 💪 争取两个高质量CVE
 
 
 
