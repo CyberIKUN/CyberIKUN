@@ -9,10 +9,8 @@
 
 🦃  **来自赛博IKUN的介绍**
 
- - 🔭 一名练习时长两年半的攻防实习鸡🐓（实际入圈一年）
-
- - 🌱 立志成为安全研究员
- - 😃热衷于漏洞挖掘，擅长外网渗透、内网攻防、逆向、Android（后面两个不太行🥸）
+ - 🌱 安全研究员
+ - 😃 热衷于漏洞挖掘
 
 🐤  **赛博IKUN的篮球之路**
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=CyberIKUN&show_icons=true&theme=vue&count_private=false" />
