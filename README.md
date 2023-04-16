@@ -24,9 +24,6 @@
 
  - 鸡？篮球？
 
-
-<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
-
-
+<img width="50%" align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 
 先卷为敬✈️
