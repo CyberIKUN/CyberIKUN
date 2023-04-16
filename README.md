@@ -17,8 +17,6 @@
 🐤  **赛博IKUN的篮球之路**
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=CyberIKUN&show_icons=true&theme=vue&count_private=false" />
 
-- 💩 水了4个CVE-垃圾CMS
-- 🤯 打过4次护网-两蓝两红
 
 
 
@@ -26,16 +24,8 @@
 
  - 鸡？篮球？
 
-🚩 **今年目标**
-<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 
-- [x] 🎢 开发一个Java项目和
-- [ ] 🎢 Go项目（熟悉语言开发为主）
-- [ ] 🎈 熟悉中间件原理，复现中间件漏洞
-- [ ] 💎 自动化代码漏洞挖掘原理+使用-CodeQL
-- [ ] 🎄 毕设-RASP
-- [ ] 📖 看书
-- [ ] 💪 争取两个高质量CVE
+<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 
 
 
