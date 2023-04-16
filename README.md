@@ -12,8 +12,7 @@
  - 🌱 安全研究员
  - 😃 热衷于漏洞挖掘
 
-🐤  **赛博IKUN的篮球之路**
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=CyberIKUN&show_icons=true&theme=vue&count_private=false" />
+
 
 
 
@@ -21,7 +20,8 @@
  🏀  **把鸡和篮球联系起来想想**
 
  - 鸡？篮球？
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=CyberIKUN&show_icons=true&theme=vue&count_private=false" />
 
-<img width="50%" align="bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
+<img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 
 先卷为敬✈️
