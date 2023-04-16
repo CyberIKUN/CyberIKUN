@@ -13,7 +13,7 @@
  - 😃 热衷于漏洞挖掘
 
 🐤  **赛博IKUN的篮球之路**
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=CyberIKUN&show_icons=true&theme=vue&count_private=false" />
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=CyberIKUN&show_icons=true&theme=vue&count_private=false" />
 
 
 
